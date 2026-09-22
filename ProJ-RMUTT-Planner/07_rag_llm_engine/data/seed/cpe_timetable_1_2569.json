@@ -10,20 +10,21 @@
   "disclaimer": "ข้อมูลจำลองสำหรับต้นแบบ ไม่ใช่ตารางสอนจริงของมหาวิทยาลัย",
   "sections": [
     {
-      "id": "04100201-66-01",
-      "course_code": "04100201-66",
+      "id": "01000101-62-01",
+      "course_code": "01000101-62",
       "section": "01",
-      "course_name": "สถาปัตยกรรมคอมพิวเตอร์",
+      "course_name": "สังคมกับความยั่งยืน",
       "credits": 3,
-      "category": "major",
+      "category": "general",
+      "suggested_year": 1,
       "slots_mask": 252,
       "meetings": [
         {
           "day": 0,
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1301",
-          "building": "ST1",
+          "room": "GE-101",
+          "building": "GE",
           "meeting_type": "lecture"
         }
       ],
@@ -33,24 +34,800 @@
           "exam_date": "2569-09-03",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1301"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
           "exam_date": "2569-10-26",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1301"
+          "room": "N/A"
         }
       ],
       "seat_total": 40,
-      "seat_taken": 38,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ณัฐพงษ์ วารีรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "01000101-62-02",
+      "course_code": "01000101-62",
+      "section": "02",
+      "course_name": "สังคมกับความยั่งยืน",
+      "credits": 3,
+      "category": "general",
+      "suggested_year": 1,
+      "slots_mask": 19497555618744739329661206528,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "GE-101",
+          "building": "GE",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-26",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.อรรถพล มณีวงศ์"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "01000201-62-01",
+      "course_code": "01000201-62",
+      "section": "01",
+      "course_name": "ภาษาอังกฤษเพื่อการสื่อสาร 1",
+      "credits": 3,
+      "category": "general",
+      "suggested_year": 1,
+      "slots_mask": 16911433728,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "GE-102",
+          "building": "GE",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-GE",
+          "building": "GE",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-27",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.อรรถพล มณีวงศ์"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "01000201-62-02",
+      "course_code": "01000201-62",
+      "section": "02",
+      "course_name": "ภาษาอังกฤษเพื่อการสื่อสาร 1",
+      "credits": 3,
+      "category": "general",
+      "suggested_year": 1,
+      "slots_mask": 1308458808350776562389685074963464192,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "GE-102",
+          "building": "GE",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-GE",
+          "building": "GE",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-27",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.สุภาพร เรืองฤทธิ์"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "04000202-63-01",
+      "course_code": "04000202-63",
+      "section": "01",
+      "course_name": "แคลคูลัสประยุกต์สำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 1134907106097364992,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "EN-2103",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-28",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.สุภาพร เรืองฤทธิ์"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04000202-63-02",
+      "course_code": "04000202-63",
+      "section": "02",
+      "course_name": "แคลคูลัสประยุกต์สำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 343004625856305971171081604291222357147648,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "EN-2103",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-28",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04000203-63-01",
+      "course_code": "04000203-63",
+      "section": "01",
+      "course_name": "ฟิสิกส์สำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 76162326635721638006489088,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "EN-2104",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-07",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04000203-63-02",
+      "course_code": "04000203-63",
+      "section": "02",
+      "course_name": "ฟิสิกส์สำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 87809184219214328619796890698552923429797888,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "EN-2104",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-07",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04000204-63-01",
+      "course_code": "04000204-63",
+      "section": "01",
+      "course_name": "ปฏิบัติการฟิสิกส์สำหรับงานวิศวกรรม",
+      "credits": 1,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 5111167220120220946834707324076032,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "EN-2105",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-EN2",
+          "building": "EN2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04000204-63-02",
+      "course_code": "04000204-63",
+      "section": "02",
+      "course_name": "ปฏิบัติการฟิสิกส์สำหรับงานวิศวกรรม",
+      "credits": 1,
+      "category": "basic",
+      "suggested_year": 1,
+      "slots_mask": 4128768,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "EN-2105",
+          "building": "EN2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-EN2",
+          "building": "EN2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ปิยะดา ศรีสุวรรณ"
+      ],
+      "is_online": false,
+      "priority_score": 60
+    },
+    {
+      "id": "04100101-66-01",
+      "course_code": "04100101-66",
+      "section": "01",
+      "course_name": "การเขียนโปรแกรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 64512,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1106",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ปิยะดา ศรีสุวรรณ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100101-66-02",
+      "course_code": "04100101-66",
+      "section": "02",
+      "course_name": "การเขียนโปรแกรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 277076930199552,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1106",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100101-66-03",
+      "course_code": "04100101-66",
+      "section": "03",
+      "course_name": "การเขียนโปรแกรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 19497555618744739329661206528,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1106",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 3,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.พิมพ์ชนก แสงทอง"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100102-66-01",
+      "course_code": "04100102-66",
+      "section": "01",
+      "course_name": "พื้นฐานวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 4329327034368,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-1107",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100102-66-02",
+      "course_code": "04100102-66",
+      "section": "02",
+      "course_name": "พื้นฐานวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 18594318026299228028928,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "ST-1107",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.พิมพ์ชนก แสงทอง"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100102-66-03",
+      "course_code": "04100102-66",
+      "section": "03",
+      "course_name": "พื้นฐานวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 1,
+      "slots_mask": 1308458808350776562389685074963464192,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-1107",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "รศ.ดร.สุทธิพงษ์ จันทรา"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100201-66-01",
+      "course_code": "04100201-66",
+      "section": "01",
+      "course_name": "สถาปัตยกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 2,
+      "slots_mask": 252,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-1108",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
         "04100104-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+        "ดร.พิมพ์ชนก แสงทอง"
       ],
       "is_online": false,
       "priority_score": 80
@@ -62,13 +839,14 @@
       "course_name": "สถาปัตยกรรมคอมพิวเตอร์",
       "credits": 3,
       "category": "major",
-      "slots_mask": 290536219160925437952,
+      "suggested_year": 2,
+      "slots_mask": 19497555618744739329661206528,
       "meetings": [
         {
-          "day": 2,
+          "day": 3,
           "start_min": 780,
           "end_min": 960,
-          "room": "ST-1301",
+          "room": "ST-1108",
           "building": "ST1",
           "meeting_type": "lecture"
         }
@@ -76,27 +854,74 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-03",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "ST-1301"
+          "exam_date": "2569-09-11",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-26",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "ST-1301"
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         }
       ],
-      "seat_total": 40,
-      "seat_taken": 22,
+      "seat_total": 35,
+      "seat_taken": 14,
       "prerequisites": [
         "04100104-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+        "รศ.ดร.สุทธิพงษ์ จันทรา"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100201-66-03",
+      "course_code": "04100201-66",
+      "section": "03",
+      "course_name": "สถาปัตยกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 2,
+      "slots_mask": 87809184219214328619796890698552923429797888,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-1108",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100104-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ธนวัฒน์ เกียรติกุล"
       ],
       "is_online": false,
       "priority_score": 80
@@ -108,21 +933,22 @@
       "course_name": "การเขียนโปรแกรมเชิงวัตถุ",
       "credits": 3,
       "category": "major",
-      "slots_mask": 64572,
+      "suggested_year": 2,
+      "slots_mask": 252,
       "meetings": [
         {
           "day": 0,
           "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1402",
+          "end_min": 630,
+          "room": "ST-1109",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
           "day": 0,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-CPE1",
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -130,27 +956,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-04",
+          "exam_date": "2569-09-12",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-27",
+          "exam_date": "2569-11-05",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         }
       ],
-      "seat_total": 35,
-      "seat_taken": 30,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
         "04100103-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ดร.พิมพ์ชนก แสงทอง"
+        "รศ.ดร.สุทธิพงษ์ จันทรา"
       ],
       "is_online": false,
       "priority_score": 80
@@ -162,21 +988,22 @@
       "course_name": "การเขียนโปรแกรมเชิงวัตถุ",
       "credits": 3,
       "category": "major",
-      "slots_mask": 4333353566208,
+      "suggested_year": 2,
+      "slots_mask": 1308458808350776562389685074963464192,
       "meetings": [
         {
-          "day": 1,
-          "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1402",
+          "day": 4,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1109",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 1,
-          "start_min": 780,
+          "day": 4,
+          "start_min": 870,
           "end_min": 960,
-          "room": "LAB-CPE1",
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -184,27 +1011,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-04",
+          "exam_date": "2569-09-12",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-27",
+          "exam_date": "2569-11-05",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         }
       ],
       "seat_total": 35,
-      "seat_taken": 12,
+      "seat_taken": 14,
       "prerequisites": [
         "04100103-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ดร.พิมพ์ชนก แสงทอง"
+        "ผศ.ธนวัฒน์ เกียรติกุล"
       ],
       "is_online": false,
       "priority_score": 80
@@ -216,21 +1043,22 @@
       "course_name": "การเขียนโปรแกรมเชิงวัตถุ",
       "credits": 3,
       "category": "major",
-      "slots_mask": 19515689506038958767281799168,
+      "suggested_year": 2,
+      "slots_mask": 4128768,
       "meetings": [
         {
-          "day": 3,
-          "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1402",
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1109",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 3,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-CPE2",
+          "day": 0,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -238,27 +1066,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-04",
+          "exam_date": "2569-09-12",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-27",
+          "exam_date": "2569-11-05",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1402"
+          "room": "N/A"
         }
       ],
-      "seat_total": 35,
-      "seat_taken": 35,
+      "seat_total": 30,
+      "seat_taken": 30,
       "prerequisites": [
         "04100103-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "อ.ณัฐพงษ์ วารีรัตน์"
+        "อ.วราภรณ์ สุขสมบัติ"
       ],
       "is_online": false,
       "priority_score": 80
@@ -270,21 +1098,22 @@
       "course_name": "ระบบฐานข้อมูล",
       "credits": 3,
       "category": "major",
-      "slots_mask": 4333353566208,
+      "suggested_year": 2,
+      "slots_mask": 1134907106097364992,
       "meetings": [
         {
-          "day": 1,
+          "day": 2,
           "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1403",
+          "end_min": 630,
+          "room": "ST-1110",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 1,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-CPE2",
+          "day": 2,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -292,27 +1121,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-07",
+          "exam_date": "2569-09-03",
           "start_min": 780,
           "end_min": 960,
-          "room": "ST-1403"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-29",
+          "exam_date": "2569-11-06",
           "start_min": 780,
           "end_min": 960,
-          "room": "ST-1403"
+          "room": "N/A"
         }
       ],
-      "seat_total": 35,
-      "seat_taken": 28,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
         "04100103-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "รศ.ดร.สุทธิพงษ์ จันทรา"
+        "ผศ.ธนวัฒน์ เกียรติกุล"
       ],
       "is_online": false,
       "priority_score": 80
@@ -324,21 +1153,22 @@
       "course_name": "ระบบฐานข้อมูล",
       "credits": 3,
       "category": "major",
-      "slots_mask": 290806435138567667712,
+      "suggested_year": 2,
+      "slots_mask": 343004625856305971171081604291222357147648,
       "meetings": [
         {
-          "day": 2,
+          "day": 5,
           "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1403",
+          "end_min": 630,
+          "room": "ST-1110",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 2,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-CPE2",
+          "day": 5,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -346,27 +1176,82 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-07",
+          "exam_date": "2569-09-03",
           "start_min": 780,
           "end_min": 960,
-          "room": "ST-1403"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-29",
+          "exam_date": "2569-11-06",
           "start_min": 780,
           "end_min": 960,
-          "room": "ST-1403"
+          "room": "N/A"
         }
       ],
       "seat_total": 35,
-      "seat_taken": 15,
+      "seat_taken": 14,
       "prerequisites": [
         "04100103-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "รศ.ดร.สุทธิพงษ์ จันทรา"
+        "อ.วราภรณ์ สุขสมบัติ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100203-66-03",
+      "course_code": "04100203-66",
+      "section": "03",
+      "course_name": "ระบบฐานข้อมูล",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 2,
+      "slots_mask": 277076930199552,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1110",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-06",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100103-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.กมลชนก ทรัพย์เจริญ"
       ],
       "is_online": false,
       "priority_score": 80
@@ -378,49 +1263,50 @@
       "course_name": "เครือข่ายคอมพิวเตอร์",
       "credits": 3,
       "category": "major",
-      "slots_mask": 19515689506038958767281799168,
+      "suggested_year": 2,
+      "slots_mask": 76162326635721638006489088,
       "meetings": [
         {
           "day": 3,
           "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1404",
+          "end_min": 630,
+          "room": "ST-1111",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
           "day": 3,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-NET",
-          "building": "ST2",
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
+          "building": "ST1",
           "meeting_type": "lab"
         }
       ],
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-08",
+          "exam_date": "2569-09-04",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1404"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-30",
+          "exam_date": "2569-10-26",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1404"
+          "room": "N/A"
         }
       ],
-      "seat_total": 30,
-      "seat_taken": 27,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
         "04100102-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ผศ.ธนวัฒน์ เกียรติกุล"
+        "อ.วราภรณ์ สุขสมบัติ"
       ],
       "is_online": false,
       "priority_score": 80
@@ -432,49 +1318,105 @@
       "course_name": "เครือข่ายคอมพิวเตอร์",
       "credits": 3,
       "category": "major",
-      "slots_mask": 1309675752926995662615121910040625152,
+      "suggested_year": 2,
+      "slots_mask": 87809184219214328619796890698552923429797888,
       "meetings": [
         {
-          "day": 4,
-          "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1404",
+          "day": 5,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1111",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 4,
-          "start_min": 780,
+          "day": 5,
+          "start_min": 870,
           "end_min": 960,
-          "room": "LAB-NET",
-          "building": "ST2",
+          "room": "LAB-ST1",
+          "building": "ST1",
           "meeting_type": "lab"
         }
       ],
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-08",
+          "exam_date": "2569-09-04",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1404"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-30",
+          "exam_date": "2569-10-26",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1404"
+          "room": "N/A"
         }
       ],
-      "seat_total": 30,
-      "seat_taken": 8,
+      "seat_total": 35,
+      "seat_taken": 14,
       "prerequisites": [
         "04100102-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "ผศ.ธนวัฒน์ เกียรติกุล"
+        "อ.กมลชนก ทรัพย์เจริญ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100204-66-03",
+      "course_code": "04100204-66",
+      "section": "03",
+      "course_name": "เครือข่ายคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 2,
+      "slots_mask": 18594318026299228028928,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1111",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 2,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-04",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-26",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100102-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ณัฐพงษ์ วารีรัตน์"
       ],
       "is_online": false,
       "priority_score": 80
@@ -486,13 +1428,14 @@
       "course_name": "สถิติวิศวกรรม",
       "credits": 3,
       "category": "basic",
-      "slots_mask": 64512,
+      "suggested_year": 2,
+      "slots_mask": 5111167220120220946834707324076032,
       "meetings": [
         {
-          "day": 0,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "EN-2201",
+          "day": 4,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "EN-2112",
           "building": "EN2",
           "meeting_type": "lecture"
         }
@@ -500,27 +1443,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-07",
+          "exam_date": "2569-09-03",
           "start_min": 780,
           "end_min": 960,
-          "room": "EN-2201"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-02",
+          "exam_date": "2569-10-27",
           "start_min": 780,
           "end_min": 960,
-          "room": "EN-2201"
+          "room": "N/A"
         }
       ],
-      "seat_total": 60,
-      "seat_taken": 45,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
         "04000202-63"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "อ.วราภรณ์ สุขสมบัติ"
+        "อ.กมลชนก ทรัพย์เจริญ"
       ],
       "is_online": false,
       "priority_score": 60
@@ -532,13 +1475,14 @@
       "course_name": "สถิติวิศวกรรม",
       "credits": 3,
       "category": "basic",
-      "slots_mask": 5111167220120220946834707324076032,
+      "suggested_year": 2,
+      "slots_mask": 4128768,
       "meetings": [
         {
-          "day": 4,
-          "start_min": 540,
-          "end_min": 720,
-          "room": "EN-2201",
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "EN-2112",
           "building": "EN2",
           "meeting_type": "lecture"
         }
@@ -546,27 +1490,27 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-07",
+          "exam_date": "2569-09-03",
           "start_min": 780,
           "end_min": 960,
-          "room": "EN-2201"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-02",
+          "exam_date": "2569-10-27",
           "start_min": 780,
           "end_min": 960,
-          "room": "EN-2201"
+          "room": "N/A"
         }
       ],
-      "seat_total": 60,
-      "seat_taken": 31,
+      "seat_total": 35,
+      "seat_taken": 14,
       "prerequisites": [
         "04000202-63"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "อ.วราภรณ์ สุขสมบัติ"
+        "อ.ณัฐพงษ์ วารีรัตน์"
       ],
       "is_online": false,
       "priority_score": 60
@@ -578,13 +1522,14 @@
       "course_name": "วิทยาศาสตร์และเทคโนโลยีสมัยใหม่",
       "credits": 3,
       "category": "general",
-      "slots_mask": 1134907106097364992,
+      "suggested_year": 2,
+      "slots_mask": 64512,
       "meetings": [
         {
-          "day": 2,
-          "start_min": 540,
-          "end_min": 720,
-          "room": "GE-101",
+          "day": 0,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "GE-113",
           "building": "GE",
           "meeting_type": "lecture"
         }
@@ -592,25 +1537,25 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-09",
+          "exam_date": "2569-09-07",
           "start_min": 540,
-          "end_min": 660,
-          "room": "GE-101"
+          "end_min": 720,
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-03",
+          "exam_date": "2569-10-28",
           "start_min": 540,
-          "end_min": 660,
-          "room": "GE-101"
+          "end_min": 720,
+          "room": "N/A"
         }
       ],
-      "seat_total": 80,
-      "seat_taken": 62,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [],
       "campus": "คลองหก",
       "teachers": [
-        "อ.กมลชนก ทรัพย์เจริญ"
+        "อ.ณัฐพงษ์ วารีรัตน์"
       ],
       "is_online": false,
       "priority_score": 40
@@ -622,13 +1567,14 @@
       "course_name": "วิทยาศาสตร์และเทคโนโลยีสมัยใหม่",
       "credits": 3,
       "category": "general",
-      "slots_mask": 1308458808350776562389685074963464192,
+      "suggested_year": 2,
+      "slots_mask": 277076930199552,
       "meetings": [
         {
-          "day": 4,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "GE-101",
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "GE-113",
           "building": "GE",
           "meeting_type": "lecture"
         }
@@ -636,247 +1582,52 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-09",
+          "exam_date": "2569-09-07",
           "start_min": 540,
-          "end_min": 660,
-          "room": "GE-101"
+          "end_min": 720,
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-03",
+          "exam_date": "2569-10-28",
           "start_min": 540,
-          "end_min": 660,
-          "room": "GE-101"
+          "end_min": 720,
+          "room": "N/A"
         }
       ],
-      "seat_total": 80,
-      "seat_taken": 80,
+      "seat_total": 35,
+      "seat_taken": 35,
       "prerequisites": [],
       "campus": "คลองหก",
       "teachers": [
-        "อ.กมลชนก ทรัพย์เจริญ"
+        "ผศ.ดร.อรรถพล มณีวงศ์"
       ],
       "is_online": false,
       "priority_score": 40
     },
     {
-      "id": "01000202-62-01",
-      "course_code": "01000202-62",
+      "id": "04100301-66-01",
+      "course_code": "04100301-66",
       "section": "01",
-      "course_name": "ภาษาอังกฤษเพื่อการสื่อสาร 2",
+      "course_name": "ปัญญาประดิษฐ์",
       "credits": 3,
-      "category": "general",
-      "slots_mask": 297105609428491331946487480320,
-      "meetings": [
-        {
-          "day": 1,
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "LA-301",
-          "building": "LA",
-          "meeting_type": "lecture"
-        },
-        {
-          "day": 3,
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "LA-301",
-          "building": "LA",
-          "meeting_type": "lecture"
-        }
-      ],
-      "exams": [
-        {
-          "exam_type": "midterm",
-          "exam_date": "2569-09-10",
-          "start_min": 780,
-          "end_min": 900,
-          "room": "LA-301"
-        },
-        {
-          "exam_type": "final",
-          "exam_date": "2569-11-04",
-          "start_min": 780,
-          "end_min": 900,
-          "room": "LA-301"
-        }
-      ],
-      "seat_total": 40,
-      "seat_taken": 33,
-      "prerequisites": [
-        "01000201-62"
-      ],
-      "campus": "คลองหก",
-      "teachers": [
-        "อ.Sarah Mitchell"
-      ],
-      "is_online": false,
-      "priority_score": 40
-    },
-    {
-      "id": "01000202-62-02",
-      "course_code": "01000202-62",
-      "section": "02",
-      "course_name": "ภาษาอังกฤษเพื่อการสื่อสาร 2",
-      "credits": 3,
-      "category": "general",
-      "slots_mask": 4427218577690293370880,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 252,
       "meetings": [
         {
           "day": 0,
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "LA-302",
-          "building": "LA",
-          "meeting_type": "lecture"
-        },
-        {
-          "day": 2,
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "LA-302",
-          "building": "LA",
-          "meeting_type": "lecture"
-        }
-      ],
-      "exams": [
-        {
-          "exam_type": "midterm",
-          "exam_date": "2569-09-10",
-          "start_min": 780,
-          "end_min": 900,
-          "room": "LA-301"
-        },
-        {
-          "exam_type": "final",
-          "exam_date": "2569-11-04",
-          "start_min": 780,
-          "end_min": 900,
-          "room": "LA-301"
-        }
-      ],
-      "seat_total": 40,
-      "seat_taken": 19,
-      "prerequisites": [
-        "01000201-62"
-      ],
-      "campus": "คลองหก",
-      "teachers": [
-        "อ.ปิยะดา ศรีสุวรรณ"
-      ],
-      "is_online": false,
-      "priority_score": 40
-    },
-    {
-      "id": "04000203-63-01",
-      "course_code": "04000203-63",
-      "section": "01",
-      "course_name": "ฟิสิกส์สำหรับงานวิศวกรรม",
-      "credits": 3,
-      "category": "basic",
-      "slots_mask": 16911433728,
-      "meetings": [
-        {
-          "day": 1,
           "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201",
-          "building": "SC",
-          "meeting_type": "lecture"
-        }
-      ],
-      "exams": [
-        {
-          "exam_type": "midterm",
-          "exam_date": "2569-09-11",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201"
-        },
-        {
-          "exam_type": "final",
-          "exam_date": "2569-11-05",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201"
-        }
-      ],
-      "seat_total": 50,
-      "seat_taken": 40,
-      "prerequisites": [],
-      "campus": "คลองหก",
-      "teachers": [
-        "อ.ธีรเดช พงษ์ไพบูลย์"
-      ],
-      "is_online": false,
-      "priority_score": 60
-    },
-    {
-      "id": "04000203-63-05",
-      "course_code": "04000203-63",
-      "section": "05",
-      "course_name": "ฟิสิกส์สำหรับงานวิศวกรรม",
-      "credits": 3,
-      "category": "basic",
-      "slots_mask": 343004625856305971171081604291222357147648,
-      "meetings": [
-        {
-          "day": 5,
-          "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201",
-          "building": "SC",
-          "meeting_type": "lecture"
-        }
-      ],
-      "exams": [
-        {
-          "exam_type": "midterm",
-          "exam_date": "2569-09-11",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201"
-        },
-        {
-          "exam_type": "final",
-          "exam_date": "2569-11-05",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "SC-201"
-        }
-      ],
-      "seat_total": 50,
-      "seat_taken": 20,
-      "prerequisites": [],
-      "campus": "คลองหก",
-      "teachers": [
-        "อ.ธีรเดช พงษ์ไพบูลย์"
-      ],
-      "is_online": false,
-      "priority_score": 60
-    },
-    {
-      "id": "04100103-66-01",
-      "course_code": "04100103-66",
-      "section": "01",
-      "course_name": "โครงสร้างข้อมูลและอัลกอริทึม",
-      "credits": 3,
-      "category": "major",
-      "slots_mask": 290806435138567667712,
-      "meetings": [
-        {
-          "day": 2,
-          "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1201",
+          "end_min": 630,
+          "room": "ST-1114",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
-          "day": 2,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "LAB-CPE1",
+          "day": 0,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -884,68 +1635,24 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-12",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "ST-1201"
+          "exam_date": "2569-09-08",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-06",
-          "start_min": 540,
-          "end_min": 720,
-          "room": "ST-1201"
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         }
       ],
-      "seat_total": 35,
-      "seat_taken": 33,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
-        "04100101-66"
+        "04100103-66"
       ],
-      "campus": "คลองหก",
-      "teachers": [
-        "ดร.พิมพ์ชนก แสงทอง"
-      ],
-      "is_online": false,
-      "priority_score": 80
-    },
-    {
-      "id": "04100105-66-01",
-      "course_code": "04100105-66",
-      "section": "01",
-      "course_name": "คณิตศาสตร์ดิสครีต",
-      "credits": 3,
-      "category": "major",
-      "slots_mask": 1308458808350776562389685074963464192,
-      "meetings": [
-        {
-          "day": 4,
-          "start_min": 780,
-          "end_min": 960,
-          "room": "ST-1202",
-          "building": "ST1",
-          "meeting_type": "lecture"
-        }
-      ],
-      "exams": [
-        {
-          "exam_type": "midterm",
-          "exam_date": "2569-09-09",
-          "start_min": 780,
-          "end_min": 960,
-          "room": "ST-1202"
-        },
-        {
-          "exam_type": "final",
-          "exam_date": "2569-11-03",
-          "start_min": 780,
-          "end_min": 960,
-          "room": "ST-1202"
-        }
-      ],
-      "seat_total": 45,
-      "seat_taken": 20,
-      "prerequisites": [],
       "campus": "คลองหก",
       "teachers": [
         "ผศ.ดร.อรรถพล มณีวงศ์"
@@ -954,27 +1661,915 @@
       "priority_score": 80
     },
     {
-      "id": "04100208-66-01",
-      "course_code": "04100208-66",
-      "section": "01",
-      "course_name": "การพัฒนาเว็บแอปพลิเคชัน",
+      "id": "04100301-66-02",
+      "course_code": "04100301-66",
+      "section": "02",
+      "course_name": "ปัญญาประดิษฐ์",
       "credits": 3,
       "category": "major",
-      "slots_mask": 87890851987275353851028100604336547800547328,
+      "suggested_year": 3,
+      "slots_mask": 19497555618744739329661206528,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1114",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 3,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100103-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.สุภาพร เรืองฤทธิ์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100301-66-03",
+      "course_code": "04100301-66",
+      "section": "03",
+      "course_name": "ปัญญาประดิษฐ์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 87809184219214328619796890698552923429797888,
       "meetings": [
         {
           "day": 5,
-          "start_min": 540,
-          "end_min": 660,
-          "room": "ST-1405",
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1114",
           "building": "ST1",
           "meeting_type": "lecture"
         },
         {
           "day": 5,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
           "start_min": 780,
           "end_min": 960,
-          "room": "LAB-CPE1",
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100103-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100302-66-01",
+      "course_code": "04100302-66",
+      "section": "01",
+      "course_name": "การเรียนรู้ของเครื่อง",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 16911433728,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-1115",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100209-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.สุภาพร เรืองฤทธิ์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100302-66-02",
+      "course_code": "04100302-66",
+      "section": "02",
+      "course_name": "การเรียนรู้ของเครื่อง",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 1308458808350776562389685074963464192,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1115",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100209-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100302-66-03",
+      "course_code": "04100302-66",
+      "section": "03",
+      "course_name": "การเรียนรู้ของเครื่อง",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 4128768,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1115",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100209-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100303-66-01",
+      "course_code": "04100303-66",
+      "section": "01",
+      "course_name": "ความมั่นคงปลอดภัยไซเบอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 1134907106097364992,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-1116",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100204-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100303-66-02",
+      "course_code": "04100303-66",
+      "section": "02",
+      "course_name": "ความมั่นคงปลอดภัยไซเบอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 343004625856305971171081604291222357147648,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-1116",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100204-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100303-66-03",
+      "course_code": "04100303-66",
+      "section": "03",
+      "course_name": "ความมั่นคงปลอดภัยไซเบอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 277076930199552,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "ST-1116",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100204-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ปิยะดา ศรีสุวรรณ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100304-66-01",
+      "course_code": "04100304-66",
+      "section": "01",
+      "course_name": "การประมวลผลแบบกลุ่มเมฆ",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 76162326635721638006489088,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-1117",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 3,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100205-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100304-66-02",
+      "course_code": "04100304-66",
+      "section": "02",
+      "course_name": "การประมวลผลแบบกลุ่มเมฆ",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 87809184219214328619796890698552923429797888,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1117",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 5,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 35,
+      "prerequisites": [
+        "04100205-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ปิยะดา ศรีสุวรรณ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100304-66-03",
+      "course_code": "04100304-66",
+      "section": "03",
+      "course_name": "การประมวลผลแบบกลุ่มเมฆ",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 18594318026299228028928,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1117",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 2,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100205-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100305-66-01",
+      "course_code": "04100305-66",
+      "section": "01",
+      "course_name": "เตรียมโครงงานวิศวกรรมคอมพิวเตอร์",
+      "credits": 1,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 5111167220120220946834707324076032,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-1118",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-12",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ปิยะดา ศรีสุวรรณ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100305-66-02",
+      "course_code": "04100305-66",
+      "section": "02",
+      "course_name": "เตรียมโครงงานวิศวกรรมคอมพิวเตอร์",
+      "credits": 1,
+      "category": "major",
+      "suggested_year": 3,
+      "slots_mask": 4128768,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-1118",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-12",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04000201-62-01",
+      "course_code": "04000201-62",
+      "section": "01",
+      "course_name": "ภาษาอังกฤษสำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "general",
+      "suggested_year": 3,
+      "slots_mask": 64512,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "GE-119",
+          "building": "GE",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-GE",
+          "building": "GE",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "01000202-62"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.ชัยวัฒน์ ภูมิรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "04000201-62-02",
+      "course_code": "04000201-62",
+      "section": "02",
+      "course_name": "ภาษาอังกฤษสำหรับงานวิศวกรรม",
+      "credits": 3,
+      "category": "general",
+      "suggested_year": 3,
+      "slots_mask": 277076930199552,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "GE-119",
+          "building": "GE",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-GE",
+          "building": "GE",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "01000202-62"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.พิมพ์ชนก แสงทอง"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "04100306-66-01",
+      "course_code": "04100306-66",
+      "section": "01",
+      "course_name": "จริยธรรมและกฎหมายเทคโนโลยีสารสนเทศ",
+      "credits": 2,
+      "category": "general",
+      "suggested_year": 3,
+      "slots_mask": 4329327034368,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "GE-120",
+          "building": "GE",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-06",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.พิมพ์ชนก แสงทอง"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "04100306-66-02",
+      "course_code": "04100306-66",
+      "section": "02",
+      "course_name": "จริยธรรมและกฎหมายเทคโนโลยีสารสนเทศ",
+      "credits": 2,
+      "category": "general",
+      "suggested_year": 3,
+      "slots_mask": 18594318026299228028928,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "GE-120",
+          "building": "GE",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-06",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "รศ.ดร.สุทธิพงษ์ จันทรา"
+      ],
+      "is_online": false,
+      "priority_score": 40
+    },
+    {
+      "id": "04100401-66-01",
+      "course_code": "04100401-66",
+      "section": "01",
+      "course_name": "โครงงานวิศวกรรมคอมพิวเตอร์ 2",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 252,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-1121",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST1",
           "building": "ST1",
           "meeting_type": "lab"
         }
@@ -985,42 +2580,153 @@
           "exam_date": "2569-09-05",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1405"
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-10-28",
+          "exam_date": "2569-10-26",
           "start_min": 540,
           "end_min": 720,
-          "room": "ST-1405"
+          "room": "N/A"
         }
       ],
-      "seat_total": 30,
-      "seat_taken": 11,
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [
-        "04100203-66"
+        "04100307-66"
       ],
       "campus": "คลองหก",
       "teachers": [
-        "อ.ณัฐพงษ์ วารีรัตน์"
+        "รศ.ดร.สุทธิพงษ์ จันทรา"
       ],
       "is_online": false,
       "priority_score": 80
     },
     {
-      "id": "04100306-66-01",
-      "course_code": "04100306-66",
-      "section": "01",
-      "course_name": "จริยธรรมและกฎหมายเทคโนโลยีสารสนเทศ",
-      "credits": 2,
-      "category": "general",
-      "slots_mask": 983040,
+      "id": "04100401-66-02",
+      "course_code": "04100401-66",
+      "section": "02",
+      "course_name": "โครงงานวิศวกรรมคอมพิวเตอร์ 2",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 19497555618744739329661206528,
       "meetings": [
         {
-          "day": 0,
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "ST-1101",
+          "day": 3,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1121",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 3,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-26",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100307-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ธนวัฒน์ เกียรติกุล"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100401-66-03",
+      "course_code": "04100401-66",
+      "section": "03",
+      "course_name": "โครงงานวิศวกรรมคอมพิวเตอร์ 2",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 87809184219214328619796890698552923429797888,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-1121",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 5,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST1",
+          "building": "ST1",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-05",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-26",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [
+        "04100307-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.วราภรณ์ สุขสมบัติ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100402-66-01",
+      "course_code": "04100402-66",
+      "section": "01",
+      "course_name": "หัวข้อพิเศษทางวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 16911433728,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-1122",
           "building": "ST1",
           "meeting_type": "lecture"
         }
@@ -1028,28 +2734,722 @@
       "exams": [
         {
           "exam_type": "midterm",
-          "exam_date": "2569-09-10",
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "ST-1101"
+          "exam_date": "2569-09-07",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         },
         {
           "exam_type": "final",
-          "exam_date": "2569-11-04",
-          "start_min": 960,
-          "end_min": 1080,
-          "room": "ST-1101"
+          "exam_date": "2569-10-27",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
         }
       ],
-      "seat_total": 60,
-      "seat_taken": 24,
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ธนวัฒน์ เกียรติกุล"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100402-66-02",
+      "course_code": "04100402-66",
+      "section": "02",
+      "course_name": "หัวข้อพิเศษทางวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 1308458808350776562389685074963464192,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-1122",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-07",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-27",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.วราภรณ์ สุขสมบัติ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100402-66-03",
+      "course_code": "04100402-66",
+      "section": "03",
+      "course_name": "หัวข้อพิเศษทางวิศวกรรมคอมพิวเตอร์",
+      "credits": 3,
+      "category": "major",
+      "suggested_year": 4,
+      "slots_mask": 4128768,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "ST-1122",
+          "building": "ST1",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-07",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-27",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 30,
+      "seat_taken": 30,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.กมลชนก ทรัพย์เจริญ"
+      ],
+      "is_online": false,
+      "priority_score": 80
+    },
+    {
+      "id": "04100501-66-01",
+      "course_code": "04100501-66",
+      "section": "01",
+      "course_name": "การพัฒนาแอปพลิเคชันบนอุปกรณ์เคลื่อนที่",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 252,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-2123",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-28",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100202-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.วราภรณ์ สุขสมบัติ"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100501-66-02",
+      "course_code": "04100501-66",
+      "section": "02",
+      "course_name": "การพัฒนาแอปพลิเคชันบนอุปกรณ์เคลื่อนที่",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 19497555618744739329661206528,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-2123",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 3,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-08",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-28",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100202-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.กมลชนก ทรัพย์เจริญ"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100502-66-01",
+      "course_code": "04100502-66",
+      "section": "01",
+      "course_name": "คอมพิวเตอร์วิทัศน์",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 16911433728,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-2124",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 1,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100302-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.กมลชนก ทรัพย์เจริญ"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100502-66-02",
+      "course_code": "04100502-66",
+      "section": "02",
+      "course_name": "คอมพิวเตอร์วิทัศน์",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 1308458808350776562389685074963464192,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 780,
+          "end_min": 870,
+          "room": "ST-2124",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 870,
+          "end_min": 960,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-09",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-29",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100302-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ณัฐพงษ์ วารีรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100503-66-01",
+      "course_code": "04100503-66",
+      "section": "01",
+      "course_name": "การทดสอบและประกันคุณภาพซอฟต์แวร์",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 1134907106097364992,
+      "meetings": [
+        {
+          "day": 2,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-2125",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100206-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.ณัฐพงษ์ วารีรัตน์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100503-66-02",
+      "course_code": "04100503-66",
+      "section": "02",
+      "course_name": "การทดสอบและประกันคุณภาพซอฟต์แวร์",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 343004625856305971171081604291222357147648,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-2125",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-10",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-10-30",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100206-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.อรรถพล มณีวงศ์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100504-66-01",
+      "course_code": "04100504-66",
+      "section": "01",
+      "course_name": "บล็อกเชนและเทคโนโลยีบัญชีแยกประเภทแบบกระจาย",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 76162326635721638006489088,
+      "meetings": [
+        {
+          "day": 3,
+          "start_min": 540,
+          "end_min": 720,
+          "room": "ST-2126",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [
+        "04100204-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "ผศ.ดร.อรรถพล มณีวงศ์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100504-66-02",
+      "course_code": "04100504-66",
+      "section": "02",
+      "course_name": "บล็อกเชนและเทคโนโลยีบัญชีแยกประเภทแบบกระจาย",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 87809184219214328619796890698552923429797888,
+      "meetings": [
+        {
+          "day": 5,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-2126",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-11",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-02",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [
+        "04100204-66"
+      ],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.สุภาพร เรืองฤทธิ์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100505-66-01",
+      "course_code": "04100505-66",
+      "section": "01",
+      "course_name": "การออกแบบประสบการณ์ผู้ใช้",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 5111167220120220946834707324076032,
+      "meetings": [
+        {
+          "day": 4,
+          "start_min": 540,
+          "end_min": 630,
+          "room": "ST-2127",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 4,
+          "start_min": 630,
+          "end_min": 720,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-12",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
       "prerequisites": [],
       "campus": "คลองหก",
       "teachers": [
         "อ.สุภาพร เรืองฤทธิ์"
       ],
       "is_online": false,
-      "priority_score": 40
+      "priority_score": 30
+    },
+    {
+      "id": "04100505-66-02",
+      "course_code": "04100505-66",
+      "section": "02",
+      "course_name": "การออกแบบประสบการณ์ผู้ใช้",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 4128768,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 960,
+          "end_min": 1050,
+          "room": "ST-2127",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        },
+        {
+          "day": 0,
+          "start_min": 1050,
+          "end_min": 1140,
+          "room": "LAB-ST2",
+          "building": "ST2",
+          "meeting_type": "lab"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-12",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-03",
+          "start_min": 540,
+          "end_min": 720,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100506-66-01",
+      "course_code": "04100506-66",
+      "section": "01",
+      "course_name": "ระบบสารสนเทศเพื่อการจัดการ",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 64512,
+      "meetings": [
+        {
+          "day": 0,
+          "start_min": 780,
+          "end_min": 960,
+          "room": "ST-2128",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 40,
+      "seat_taken": 26,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "ดร.ธีรเดช พงษ์ไพบูลย์"
+      ],
+      "is_online": false,
+      "priority_score": 30
+    },
+    {
+      "id": "04100506-66-02",
+      "course_code": "04100506-66",
+      "section": "02",
+      "course_name": "ระบบสารสนเทศเพื่อการจัดการ",
+      "credits": 3,
+      "category": "elective",
+      "suggested_year": null,
+      "slots_mask": 277076930199552,
+      "meetings": [
+        {
+          "day": 1,
+          "start_min": 960,
+          "end_min": 1140,
+          "room": "ST-2128",
+          "building": "ST2",
+          "meeting_type": "lecture"
+        }
+      ],
+      "exams": [
+        {
+          "exam_type": "midterm",
+          "exam_date": "2569-09-03",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        },
+        {
+          "exam_type": "final",
+          "exam_date": "2569-11-04",
+          "start_min": 780,
+          "end_min": 960,
+          "room": "N/A"
+        }
+      ],
+      "seat_total": 35,
+      "seat_taken": 14,
+      "prerequisites": [],
+      "campus": "คลองหก",
+      "teachers": [
+        "อ.Sarah Mitchell"
+      ],
+      "is_online": false,
+      "priority_score": 30
     }
   ]
 }
