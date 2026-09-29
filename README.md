@@ -6,7 +6,7 @@
 ระบบช่วยนักศึกษาวางแผนการเรียน ตรวจตารางเรียนชน จัดตารางอัตโนมัติ
 และถาม–ตอบเรื่องระเบียบการศึกษาโดยมีแหล่งอ้างอิงกำกับทุกคำตอบ
 
-**เปิดเดโมได้เลย → https://Onpreyaq5.github.io/RMUTT-Planner/**
+**เปิดเดโมได้เลย → https://rmutt-planner.noble-gold-society.workers.dev/**
 
 ---
 
@@ -28,9 +28,9 @@
 
 | ช่องทาง | ลิงก์ | ต้องติดตั้งอะไร |
 |---|---|---|
-| เดโมออนไลน์ | [Onpreyaq5.github.io/RMUTT-Planner](https://Onpreyaq5.github.io/RMUTT-Planner/) | ไม่ต้อง |
-| แผนภาพสถาปัตยกรรม | [architecture.html](https://Onpreyaq5.github.io/RMUTT-Planner/architecture.html) | ไม่ต้อง |
-| สไลด์บทที่ 7 (RAG + LLM) | [ch07.html](https://Onpreyaq5.github.io/RMUTT-Planner/ch07.html) | ไม่ต้อง |
+| เดโมออนไลน์ | [rmutt-planner.noble-gold-society.workers.dev](https://rmutt-planner.noble-gold-society.workers.dev/) | ไม่ต้อง |
+| แผนภาพสถาปัตยกรรม | [architecture.html](https://rmutt-planner.noble-gold-society.workers.dev/architecture) | ไม่ต้อง |
+| สไลด์บทที่ 7 (RAG + LLM) | [ch07.html](https://rmutt-planner.noble-gold-society.workers.dev/ch07) | ไม่ต้อง |
 | ระบบเต็ม 9 โมดูล | `docker compose up -d --build` | Docker Desktop |
 
 เดโมออนไลน์เป็นไฟล์เดียวจบ ทำงานในเบราว์เซอร์ล้วน ไม่ต้องต่อเซิร์ฟเวอร์:
